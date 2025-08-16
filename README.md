@@ -78,6 +78,8 @@ Agent URL:   http://192.168.1.42:8765
 Auth token:  'change-me'
 ```
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6133dbae-dd1f-4f38-802f-6ab18b2e33b2" />
+
 Open that URL in your browser **(PC or mobile)**, enter the token, and start monitoring.
 
 ---
